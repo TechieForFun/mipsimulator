@@ -23,7 +23,9 @@ as a previous compiled executable file, or for compilation use
 gcc -o mipsimulator mipsimulator.cpp -lstdc++
 ```
 then run the ```mipsimulator``` output file. This is a sample result from default ```sampleCode.txt``` file.
+
 ![Sample Result](https://raw.githubusercontent.com/TechieForFun/mipsimulator/master/sample-result.gif)
+
 For using a custom MIPS machine code just edit ```sampleCode.txt```. More information about MIPS instructions can be found at [MIPS Instruction Reference](http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html).
 
 
